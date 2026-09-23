@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+
+# Local authentication database
+/data/careerguide_auth.db
+/data/careerguide_auth.db-shm
+/data/careerguide_auth.db-wal
